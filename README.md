@@ -175,12 +175,11 @@ Samuelle Green, *The Paper Caves Project* (2017). A large scale sculptural insta
 
 ---
 
-Thomas Hirschhorn, "Never Give Up the Spot", "Gramsci Monument"
-https://e-flux.com/announcements/209187/thomas-hirschhornnever-give-up-the-spot/
+Thomas Hirschhorn, *Never Give Up the Spot* (2018). "An experiment to combine destruction and creation. To this end, Thomas Hirschhorn transforms the Museum Villa Stuck into a ruin." ([link](https://e-flux.com/announcements/209187/thomas-hirschhornnever-give-up-the-spot/))
 
-![](img/)
+![](img/hirschhorn.png)
 
-
+"Gramsci Monument"
 
 ---
 
