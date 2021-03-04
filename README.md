@@ -1,8 +1,18 @@
 # shelters-as-artworks
 
-*This document presents an illustrated list of shelters-as-artworks, and artworks that deal with the concept of shelter. This list has been compiled through the generous aid and goodwill of many helpful individuals on Twitter, [in this thread](https://twitter.com/golan/status/1359883485016686603).* 
+*This document presents an illustrated list of shelters-as-artworks, and artworks that deal with the concept of shelter. This list has been compiled through the generous aid and goodwill of many helpful individuals, [in this Twitter thread](https://twitter.com/golan/status/1359883485016686603).* 
 
-*This compilation is public domain, [licensed under CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) ("No Rights Reserved"). The texts and images below have been liberally copy-pasted from online sources, typically without attribution; please be careful re-using them.*
+*This compilation is public domain, [licensed under CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) ("No Rights Reserved"). The texts and images below have been very liberally copy-pasted from online sources, typically without attribution; please be careful re-using them.*
+
+*Note: If you wish to submit a project to this compilation, please [file an issue here](https://github.com/golanlevin/shelters-as-artworks/issues) and provide the following information:* 
+
+* *Name of the artists or creators*
+* *Title of the artwork or project*
+* *Year that it was done*
+* *One single link that has the most representative or best documentation*
+* *Brief description of what the project IS, with an emphasis on why it's interesting*
+* *PNG or JPG Image, ~1000 pixels wide.*
+
 
 ---
 
