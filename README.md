@@ -2,7 +2,7 @@
 
 *This document presents an illustrated list of shelters-as-artworks, and artworks that deal with the concept of shelter. This list has been compiled through the generous aid and goodwill of many helpful individuals on Twitter, [in this thread](https://twitter.com/golan/status/1359883485016686603).* 
 
-*This compilation is public domain, [licensed under CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) ("No Rights Reserved"). The texts below have been liberally copy-pasted from online sources, sometimes without attribution; please be careful re-using them.*
+*This compilation is public domain, [licensed under CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) ("No Rights Reserved"). The texts and images below have been liberally copy-pasted from online sources, typically without attribution; please be careful re-using them.*
 
 ---
 
@@ -29,16 +29,6 @@ N55 (Danish art collective), *SNAIL SHELL SYSTEM* (2001). The SNAIL SHELL SYSTEM
 Raumlaborberlin (Axel Timm, Benjamin Foerster-Baldenius), *Shabby Shabby Apartments* (2015). "An experiment in Munich, which shows a different view of the city with one of the top-ten-rents in Europe: What would happen, if everyone leaves their homes and build booths [apartments] at the most unlikely places in the city?" ([link](https://raumlabor.net/shabbyshabby-apartments/)
 
 ![](img/shy_apartments_yellowsub_c-matthias-kestel.jpg)
-
----
-
-Ken Isaacs, *Beach Matrix* (1967). "a populist form of architecture that, because of its low cost and ease of construction, allowed a broad range of publics to participate in the design process". ([link](http://www.johannesreponen.com/journal/2016/10/16/beach-matrix-1967-installation-by-american-architect-and-designer-ken-isaacs))
-
-![Ken Isaacs, *Beach Matrix*](img/image-asset.jpg)
-
-Ken Isaacs, *Living Structures* (1974). A book a building sustainable, eco-friendly, modular, flexible, multi-functional living structures which reconfigure the entire volume of a room, being bigger than furniture and smaller than architecture. ([link](https://issuu.com/golfstromen/docs/ken-isaacs-1974))
-
-![Ken Isaacs, *Living Structures*](img/isaacs-book.png)
 
 ---
 
@@ -88,6 +78,16 @@ WLDN, *The Vigil*, 2020. "For 365 days, twice a day, a Vigil keeps watch over th
 Taro Hattori, *Rolling Counterpoint* (2016). Mobile teahouse for dialogue and conversation. ([link](http://www.tarohattori.com/projects/rolling_counterpoint.php))
 
 ![Taro Hattori, *Rolling Counterpoint*](img/01rolling_counterpoint.jpg)
+
+---
+
+Ken Isaacs, *Beach Matrix* (1967). "a populist form of architecture that, because of its low cost and ease of construction, allowed a broad range of publics to participate in the design process". ([link](http://www.johannesreponen.com/journal/2016/10/16/beach-matrix-1967-installation-by-american-architect-and-designer-ken-isaacs))
+
+![Ken Isaacs, *Beach Matrix*](img/image-asset.jpg)
+
+Ken Isaacs, *Living Structures* (1974). A book a building sustainable, eco-friendly, modular, flexible, multi-functional living structures which reconfigure the entire volume of a room, being bigger than furniture and smaller than architecture. ([link](https://issuu.com/golfstromen/docs/ken-isaacs-1974))
+
+![Ken Isaacs, *Living Structures*](img/isaacs-book.png)
 
 ---
 
