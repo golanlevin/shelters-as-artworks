@@ -1,6 +1,6 @@
 # shelters-as-artworks
 
-*This document presents an illustrated list of shelters-as-artworks, and artworks that deal with the concept of shelter. This list has been compiled through the generous aid and goodwill of many helpful individuals, [in this Twitter thread](https://twitter.com/golan/status/1359883485016686603).* 
+*This document presents an illustrated list of shelters-as-artworks, and artworks that deal with the concept of shelter. This list was compiled through the generous aid and goodwill of many helpful individuals, [in this Twitter thread](https://twitter.com/golan/status/1359883485016686603).* 
 
 *This compilation is public domain, [licensed under CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) ("No Rights Reserved"). The texts and images below have been very liberally copy-pasted from online sources, typically without attribution; please be careful re-using them.*
 
@@ -8,13 +8,15 @@
 
 * *Name of the artists or creators*
 * *Title of the artwork or project*
-* *Year that it was done*
-* *One single link that has the most representative or best documentation*
-* *Brief description of what the project IS, with an emphasis on why it's interesting*
+* *Year that it was made or started*
+* *One single URL that has the most representative or best documentation of the project*
+* *A brief description of what the project IS, including some information on why it's interesting (approximately 20-50 words long, please)*
 * *PNG or JPG Image, ~1000 pixels wide.*
 
-
 ---
+
+## Projects
+
 
 Michael Rakowitz, *paraSITE* (1997). 'Stealing' the vented air from buildings, these structures attach to the air outtake ducts of buildings, which serve as the “host” from which they derive the warm air that heats and inflates them.
 ([link](https://www.moma.org/learn/moma_learning/michael-rakowitz-parasite-homeless-shelter-1997/))
@@ -122,6 +124,12 @@ Tracey Emin, *Everyone I Have Ever Slept With 1963–1995* (1995). A tent with t
 Chris Burden, *Beehive Bunker* (2006). A sculpture that simulates a war bunker, resembling a lookout post, constructed of 332 sacks of ready-mix concrete stacked in alternating rows. ([link](https://artsandculture.google.com/asset/beehive-bunker/dgFVnYTPGKjEEg?hl=en))
 
 ![Chris Burden, *Beehive Bunker*](img/burden.png)
+
+---
+
+Gordon Matta-Clark, *Splitting* (1974). Matta-Clark made a vertical slice into an old frame house located in Englewood, New Jersey. The film documenting this action "is composed of intentionally artless footage showing Matta-Clark and his friends making two parallel cuts down the center of the house; jacking up one half of the structure and beveling the cinderblock supporting it; and then lowering that half back down, bisecting the home and creating an ephemeral display of light inside the once-compartmentalized interior." ([link](https://www.artic.edu/artworks/187171/splitting))
+
+![Gordon Matta-Clark, *Splitting* ](img/matta-clark.jpg)
 
 ---
 
