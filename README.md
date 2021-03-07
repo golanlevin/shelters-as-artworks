@@ -10,7 +10,7 @@
 
 #### How to Contribute
 
-*The easier you make it for me to add something to the list, the more likely I will add it. If you wish to submit a project to this compilation, [please file an issue here](https://github.com/golanlevin/shelters-as-artworks/issues) and provide the following information:* 
+*This list is a procrastination project that I assembled in order to give a student a leg up with their research. The easier you make it for me to add something to the list, the more likely I will add it. If you wish to submit a project to this compilation, [please file an issue here](https://github.com/golanlevin/shelters-as-artworks/issues) and provide the following information:* 
 
 * *Name of the artists or creators*
 * *Title of the artwork or project*
@@ -200,6 +200,12 @@ Samuelle Green, *The Paper Caves Project* (2017). A large scale sculptural insta
 
 ---
 
+Heather Hart, *The Oracle of Lacuna* (2017). "Hart constructed a rooftop-structure on Storm King’s campus, which visitors could climb atop of or enter through a dormer window. In collaboration with Storm King, the artist planned extensive public programming to take place on the installation and within it, such as musical performances, a poetry slam, shrine-making and story-telling workshops." ([link](https://www.heather-hart.com/oracle-of-lacuna))
+
+![Heather Hart, *The Oracle of Lacuna*](img/lacuna.png)
+
+---
+
 Gordon Matta-Clark, *Splitting* (1974). Matta-Clark made a vertical slice into an old frame house located in Englewood, New Jersey. The film documenting this action "is composed of intentionally artless footage showing Matta-Clark and his friends making two parallel cuts down the center of the house; jacking up one half of the structure and beveling the cinderblock supporting it; and then lowering that half back down, bisecting the home and creating an ephemeral display of light inside the once-compartmentalized interior." ([link](https://www.artic.edu/artworks/187171/splitting))
 
 ![Gordon Matta-Clark, *Splitting* ](img/matta-clark.jpg)
@@ -216,7 +222,11 @@ Thomas Hirschhorn, *Never Give Up the Spot* (2018). "An experiment to combine de
 
 ![](img/hirschhorn.png)
 
-"Gramsci Monument"
+---
+
+Thomas Hirschhorn, *Gramsci Monument* (2013). Hirschhorn enlisted 42 residents, paid $12 an hour, to help him to build the monument. The structure, sprawling the approximate footprint of a single family home, is raised several feet high on a wooden platform centered in a 200-foot-wide green space between a cluster of Forest Houses towers. It is composed of two distinct areas accessible by four ramps and two staircases on each side. ([link](https://urbanomnibus.net/2013/07/thomas-hirschhorns-precious-and-precarious-bronx/))
+
+![](img/GramsciMonument13.jpg)
 
 ---
 
@@ -232,13 +242,6 @@ Mario Merz, *Igloos* (1967-). In 1967 Mario Merz began working on his first Iglo
 
 ---
 
-Kevin Cyr, *Tiny Bike Trailer Mobile Homes*. "Artist and designer Kevin Cyr seems obsessed with portable housing and mobile living. In his own unique creations, he manages to pack impressive amenities (bed, lighting, storage and much more) into the smallest of interior spaces." 
-([link](https://dornob.com/small-mobile-homes-bike-trailers-shopping-cart-campers/))
-
-![Kevin Cyr, *Tiny Bike Trailer Mobile Homes*.](img/kevin-cyr-camper-bike.jpg)
-
----
-
 Agnes Meyer-Brandis, *Research Raft for Subterranean Reefology* (2005). 
 A tent-shelter containing a probe that can be lowered into the earths deeper layers and bring to light the unknown. ([link](https://archive.transmediale.de/content/sgm-eisberg-sonde-sgm-iceberg-probe))
 
@@ -246,29 +249,28 @@ A tent-shelter containing a probe that can be lowered into the earths deeper l
 
 ---
 
-Not An Alternative (Collective)
-http://magazine.art21.org/2011/05/19/5-questions-for-contemporary-practice-with-not-an-alternative/#.YCWEABNKiyE
+Kevin Cyr, *Tiny Bike Trailer Mobile Homes*. "Artist and designer Kevin Cyr seems obsessed with portable housing and mobile living. In his own unique creations, he manages to pack impressive amenities (bed, lighting, storage and much more) into the smallest of interior spaces." 
+([link](https://dornob.com/small-mobile-homes-bike-trailers-shopping-cart-campers/))
 
-![](img/)
-
----
-
-Roman Signer, Signer's Suitcase
-https://www.youtube.com/watch?v=HA58UzPVfDg&feature=youtu.be
-
-![](img/)
+![Kevin Cyr, *Tiny Bike Trailer Mobile Homes*.](img/kevin-cyr-camper-bike.jpg)
 
 ---
 
-Amos Lattier, made a pigeon condo somewhere in Toronto
+Dominic Wilcox, *Stained Glass Driverless Sleeper Car*. "As a vision for the future of transportation, Dominic Wilcox has realized a driverless car that unites intricate, handmade glass work with cutting-edge technologies. the vehicle is imagined as vessel for nighttime travel, accommodating only a bed inside; while the passenger rests, the car autonomously drives them to their destination." ([link](https://www.designboom.com/design/stained-glass-driverless-sleeper-car-by-dominic-wilcox-09-19-2014/))
 
-![](img/)
+![Dominic Wilcox, *Stained Glass Driverless Sleeper Car*](img/wilcox.png)
 
 ---
 
-Edward Kienholz, Back Seat Dodge ‘38, 1964?
+Edward Kienholz, *Back Seat Dodge ‘38* (1964). Controversial sculpture depicting an amorous encounter in the back seat of a truncated car. ([link](https://www.artsy.net/artwork/edward-kienholz-back-seat-dodge-38))
 
-![](img/)
+![Edward Kienholz, *Back Seat Dodge ‘38*](img/dodge.png)
+
+---
+
+Amos Lattier, *Pigeon Condo* (2006). "Pigeon Condo is developing luxury housing for pigeons at the desirable intersection of Yonge Street and the Lakeshore Boulevard, in the heart of Toronto's revitalized waterfront." ([link](http://latteier.com/))
+
+![Amos Lattier, *Pigeon Condo*](img/pigeon-condo.jpg)
 
 ---
 
@@ -302,11 +304,6 @@ David Darts, *Nomads* (~2019). A class in which students design shelters-as-artw
 
 ![David Darts, *Nomads*](img/darts-nomads.jpg)
 
----
-
-Will Rynan’s America, Martin Puryear, and Rina Banerjee’s pink Taj Mahal; 
-
-![](img/)
 
 ---
 
@@ -316,27 +313,10 @@ Shigeru Ban, *Paper Partition System* (2018). Disaster relief shelter in Okayama
 
 ---
 
-Santiago Cirugeda's works
+Vito Acconci, *Convertible Clam Shelter* (1990). Fiberglass, clam shells, steel, rope, lights, and sound equipment
+Dimensions variable. (Acconci has also made many other shack-like structures.) ([link](https://mcachicago.org/Collection/Items/1990/Vito-Acconci-Convertible-Clam-Shelter-1990))
 
-![](img/)
-
----
-
-Do Ho Suh's works; 
-
-![](img/)
-
----
-
-Nil Yalter’s Nomad tents
-
-![](img/)
-
----
-
-Laure Tixier’s plaid houses;
-
-![](img/)
+![](img/clam.jpg)
 
 ---
 
@@ -346,49 +326,84 @@ Louise Bourgeois, *Femme Maison* (1946). "A series of paintings by French-Americ
 
 ---
 
-I AM THE DESIGNER OF THIS RESTAURANT’S OUTDOOR SEATING SPACE, AND THIS IS MY ARTIST’S STATEMENT
-https://www.mcsweeneys.net/articles/i-am-the-designer-of-this-restaurants-outdoor-seating-space-and-this-is-my-artists-statement
+Laurie Simmons, *Walking House* (1989). "In *Walking House*, the sleek legs of a young starlet or model support a toy suburban house of the sort the young woman might have grown up in and in which—after marriage—she is destined to live." ([link](https://www.moma.org/collection/works/48215))
 
-![](img/)
+![Laurie Simmons, *Walking House*](img/walking-house.png)
+
+
+## As-Yet-Unprocessed References
 
 ---
 
-Laurie Simmons’s walking house;
+I AM THE DESIGNER OF THIS RESTAURANT’S OUTDOOR SEATING SPACE, AND THIS IS MY ARTIST’S STATEMENT
+https://www.mcsweeneys.net/articles/i-am-the-designer-of-this-restaurants-outdoor-seating-space-and-this-is-my-artists-statement
 
-![](img/)
+<!-- ![](img/) -->
 
 --- 
 
 Simone Leigh’s work (representations of homes and shelters)
 
-![](img/)
+<!-- ![](img/) -->
 
 ---
 
-Dominic Wilcot's stained glass driverless sleeper car?
+Martin Marro, *Proyecto Bunker*
 
-![](img/)
-
----
-
-Vito Acconci's clam shelter (and many other shack-like structures)
-
-![](img/)
+<!-- ![](img/) -->
 
 ---
 
-Martin Marro's 'Proyecto Bunker'
+Sack and Reicher + Muller & Eyal Zur's "Sway" / 'Fugitive Structures'  - it's a collab with architects & artist
 
-![](img/)
-
----
-
-the one that comes to mind is Sack and Reicher + Muller & Eyal Zur's "Sway" / 'Fugitive Structures'  - it's a collab with architects & artist
-
-![](img/)
+<!-- ![](img/) -->
 
 ---
 
 “MY EMF COMFORT ZONE” 2009 Todd Slaughter’s 3d head scan tent (in American Primitives)
 
-![](img/)
+<!-- ![](img/) -->
+
+---
+
+Santiago Cirugeda's works
+
+<!-- ![](img/) -->
+
+---
+
+Do Ho Suh's works; 
+
+<!-- ![](img/) -->
+
+---
+
+Nil Yalter’s Nomad tents
+
+<!-- ![](img/) -->
+
+---
+
+Laure Tixier’s plaid houses;
+
+<!-- ![](img/) -->
+
+---
+
+Not An Alternative (Collective)
+http://magazine.art21.org/2011/05/19/5-questions-for-contemporary-practice-with-not-an-alternative/#.YCWEABNKiyE
+
+<!-- ![](img/) -->
+
+---
+
+Roman Signer, Signer's Suitcase
+https://www.youtube.com/watch?v=HA58UzPVfDg&feature=youtu.be
+
+<!-- ![](img/) -->
+
+---
+
+Will Rynan’s America, Martin Puryear, and Rina Banerjee’s pink Taj Mahal; 
+
+<!-- ![](img/) -->
