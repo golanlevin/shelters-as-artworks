@@ -1,10 +1,16 @@
 # shelters-as-artworks
 
+#### Overview
+
 *This document presents an illustrated list of shelters-as-artworks, and artworks that deal with the concept of shelter. This list was compiled through the generous aid and goodwill of many helpful individuals, [in this Twitter thread](https://twitter.com/golan/status/1359883485016686603).* 
 
-*This compilation is public domain, [licensed under CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) ("No Rights Reserved"). The texts and images below have been very liberally copy-pasted from online sources, typically without attribution; please be careful re-using them.*
+#### License
 
-*Note: If you wish to submit a project to this compilation, please [file an issue here](https://github.com/golanlevin/shelters-as-artworks/issues) and provide the following information:* 
+*This compilation is public domain, [licensed under CC0](https://creativecommons.org/share-your-work/public-domain/cc0/) ("No Rights Reserved"). The texts and images below have been liberally and hastily copy-pasted from online sources, typically without attribution; please be careful re-using them.*
+
+#### How to Contribute
+
+*The easier you make it for me to add something to the list, the more likely I will add it. If you wish to submit a project to this compilation, [please file an issue here](https://github.com/golanlevin/shelters-as-artworks/issues) and provide the following information:* 
 
 * *Name of the artists or creators*
 * *Title of the artwork or project*
@@ -12,6 +18,7 @@
 * *One single URL that has the most representative or best documentation of the project*
 * *A brief description of what the project IS, including some information on why it's interesting (approximately 20-50 words long, please)*
 * *PNG or JPG Image, ~1000 pixels wide.*
+
 
 ---
 
@@ -73,6 +80,24 @@ Jonas Staal, *Interplanetary Species Society* (2019). Interplanetary Species Soc
 
 ![Jonas Staal, *Interplanetary Species Society*](img/staal.jpg)
 
+---
+
+Fernando Abellanas, *Hidden Studio* (2017). A parasitic structure: "a covert studio beneath a graffiti-covered bridge in the Spanish city of Valencia, making use of the concrete infrastructure to form a roof and walls for the hideaway." ([link](https://www.dezeen.com/2017/08/18/secret-studio-under-bridge-fernando-abellanas-architecture-valencia-spain/))
+
+![Fernando Abellanas, *Hidden Studio*](img/secret-studio-fernando-abellanas-architecture-offices_dezeen_2364_col_6.jpg)
+
+---
+
+Ilya & Emilia Kabakov, *In the Closet* (1997). The installation is arranged in the foyer of some establishment in a neutral space or in a walkway or wide corridor in a museum – precisely in a place where there is no ‘artistic’ object whatsoever or where a work of art is totally unexpected. The viewer, walking through such a place, sees an old closet built into the wall, one door of which is slightly ajar. The built-in closet should attract attention precisely because of its old, worn appearance as compared to the ‘modern’ white space of the wall. When the viewer opens the closet, to his great surprise he sees a table on which the ‘inhabitant’ eats, a corner for dishes, and a light-bulb for reading burns above a narrow bed. Everything in this residence is very crowded, intended for a long and comfortable life. The whole idea of the installation becomes immediately obvious to the outside viewer: the person who has settled into the closet has hidden precisely from such curious people as the viewer. ([link](http://www.kabakov.net/installations/2019/9/14/in-the-closet))
+
+![Ilya & Emilia Kabakov, *In the Closet*](img/View-of-installation-Museum-van-Hedendaagse-Kunst-Antwerp-1998-Photo-by-Dirk-Pauwels-2.jpg)
+
+---
+
+Jonah Freeman, Justin Lowe and Alexandre Singh, *Hello Meth Lab in the Sun* (2008). Multi-room recreation of a meth lab. "The installation effectively recreates a cinematic environment in real time, allowing viewers to transform into actors, or detectives, investigating the remains of a narrative and piecing the roles and characters back together." ([link](https://voodhu.wordpress.com/tag/hello-meth-lab-in-the-sun/))
+
+![Jonah Freeman, Justin Lowe and Alexandre Singh, *Hello Meth Lab in the Sun*](img/Hello-Meth-Lab-in-the-Sun-2008.jpg)
+
 --- 
 
 Superflux, *Mitigation of Shock* (2017). "We built an entire future apartment situated in the context of climate change and its consequences on food security. The installation transports visitors into a London flat, around 2050 or so." ([link](https://superflux.in/index.php/work/mitigation-of-shock/#))
@@ -127,30 +152,6 @@ Chris Burden, *Beehive Bunker* (2006). A sculpture that simulates a war bunker, 
 
 ---
 
-Gordon Matta-Clark, *Splitting* (1974). Matta-Clark made a vertical slice into an old frame house located in Englewood, New Jersey. The film documenting this action "is composed of intentionally artless footage showing Matta-Clark and his friends making two parallel cuts down the center of the house; jacking up one half of the structure and beveling the cinderblock supporting it; and then lowering that half back down, bisecting the home and creating an ephemeral display of light inside the once-compartmentalized interior." ([link](https://www.artic.edu/artworks/187171/splitting))
-
-![Gordon Matta-Clark, *Splitting* ](img/matta-clark.jpg)
-
----
-
-Cornelia Parker, *Cold Dark Matter: An Exploded View* (1991). A garden shed and its various miscellaneous contents, which have been blown up by the army. The exploded shed is suspended from the ceiling of the gallery with a single light source at its centre, as if in mid-explosion. ([link](https://chisenhale.org.uk/exhibition/cornelia-parker/))
-
-![Cornelia Parker, *Cold Dark Matter: An Exploded View*](img/Cold-Dark-Matter-an-Exploded-View_crop-1361x1080.jpg)
-
----
-
-Rachel Whiteread, *Ghost* (1990). Whiteread cast in plaster the interior of a Victorian living room at 486 Archway Road in North London. In Whiteread’s words, Ghost causes the "viewer to become the wall." ([link](https://www.nga.gov/collection/art-object-page.131285.html))
-
-![Rachel Whiteread, *Ghost*](img/b22074d3-1420-4cef-93e2-5b44a4c4a7bf.jpg)
-
----
-
-Ilya & Emilia Kabakov, *In the Closet* (1997). The installation is arranged in the foyer of some establishment in a neutral space or in a walkway or wide corridor in a museum – precisely in a place where there is no ‘artistic’ object whatsoever or where a work of art is totally unexpected. The viewer, walking through such a place, sees an old closet built into the wall, one door of which is slightly ajar. The built-in closet should attract attention precisely because of its old, worn appearance as compared to the ‘modern’ white space of the wall. When the viewer opens the closet, to his great surprise he sees a table on which the ‘inhabitant’ eats, a corner for dishes, and a light-bulb for reading burns above a narrow bed. Everything in this residence is very crowded, intended for a long and comfortable life. The whole idea of the installation becomes immediately obvious to the outside viewer: the person who has settled into the closet has hidden precisely from such curious people as the viewer. ([link](http://www.kabakov.net/installations/2019/9/14/in-the-closet))
-
-![Ilya & Emilia Kabakov, *In the Closet*](img/View-of-installation-Museum-van-Hedendaagse-Kunst-Antwerp-1998-Photo-by-Dirk-Pauwels-2.jpg)
-
----
-
 Aram Bartholl, *Keepalive* (2015). The boulder contains a thermoelectric generator which converts heat directly into electricity. Visitors are invited to make a fire next to the boulder to power up the wifi router in the stone which then reveals a large collection of PDF survival guides. ([link](https://arambartholl.com/keepalive/))
 
 ![Aram Bartholl, *Keepalive*](img/aram_bartholl_keepalive_2015_01-1600x1067.jpg)
@@ -181,6 +182,12 @@ Sam Jacob, *Dar Abu Said* (2016). A replica of a refugee shelter, captured by 3D
 
 ---
 
+Rachel Whiteread, *Ghost* (1990). Whiteread cast in plaster the interior of a Victorian living room at 486 Archway Road in North London. In Whiteread’s words, Ghost causes the "viewer to become the wall." ([link](https://www.nga.gov/collection/art-object-page.131285.html))
+
+![Rachel Whiteread, *Ghost*](img/b22074d3-1420-4cef-93e2-5b44a4c4a7bf.jpg)
+
+---
+
 Marie Watt, *Engine* (2009). A replica of a cave made with felted wool. ([link](http://www.mariewattstudio.com/work/project/engine))
 
 ![Marie Watt, *Engine*](img/mkw_2009-Engine-interior.jpg)
@@ -193,6 +200,18 @@ Samuelle Green, *The Paper Caves Project* (2017). A large scale sculptural insta
 
 ---
 
+Gordon Matta-Clark, *Splitting* (1974). Matta-Clark made a vertical slice into an old frame house located in Englewood, New Jersey. The film documenting this action "is composed of intentionally artless footage showing Matta-Clark and his friends making two parallel cuts down the center of the house; jacking up one half of the structure and beveling the cinderblock supporting it; and then lowering that half back down, bisecting the home and creating an ephemeral display of light inside the once-compartmentalized interior." ([link](https://www.artic.edu/artworks/187171/splitting))
+
+![Gordon Matta-Clark, *Splitting* ](img/matta-clark.jpg)
+
+---
+
+Cornelia Parker, *Cold Dark Matter: An Exploded View* (1991). A garden shed and its various miscellaneous contents, which have been blown up by the army. The exploded shed is suspended from the ceiling of the gallery with a single light source at its centre, as if in mid-explosion. ([link](https://chisenhale.org.uk/exhibition/cornelia-parker/))
+
+![Cornelia Parker, *Cold Dark Matter: An Exploded View*](img/Cold-Dark-Matter-an-Exploded-View_crop-1361x1080.jpg)
+
+---
+
 Thomas Hirschhorn, *Never Give Up the Spot* (2018). "An experiment to combine destruction and creation. To this end, Thomas Hirschhorn transforms the Museum Villa Stuck into a ruin." ([link](https://e-flux.com/announcements/209187/thomas-hirschhornnever-give-up-the-spot/))
 
 ![](img/hirschhorn.png)
@@ -201,70 +220,34 @@ Thomas Hirschhorn, *Never Give Up the Spot* (2018). "An experiment to combine de
 
 ---
 
-Elena Kolesnkova has a series investigating and recreating Russian garage cooperatives' strategies for converting non-residential spaces into impermanent homes with infrastructure that can be relocated.
-http://typography-online.ru/2020/06/20/elena-kolesnkova-voskhod-eng/
+Elena Kolesnkova, *Voskhod Cooperative* (2020). "A series investigating and recreating Russian garage cooperatives' strategies for converting non-residential spaces into impermanent homes with infrastructure that can be relocated." ([Link](http://typography-online.ru/2020/06/20/elena-kolesnkova-voskhod-eng/))
 
-![](img/)
-
-
+![lena Kolesnkova, *Voskhod Cooperative*](img/kolesnikova_garage-copy.jpg)
 
 ---
 
-Mario Merz, Igloo
-In 1967 Mario Merz began working on his first Igloo, a hemispherical domed structure that represents a temporary and nomadic architectural ideal, a house simultaneously ancient and contemporary, a symbol of the celestial vault and of conviviality.
-https://www.wallpaper.com/art/mario-merz-igloos-exhibition-pirelli-hangerbicocca
+Mario Merz, *Igloos* (1967-). In 1967 Mario Merz began working on his first Igloo, a hemispherical domed structure that represents a temporary and nomadic architectural ideal, a house simultaneously ancient and contemporary, a symbol of the celestial vault and of conviviality. ([link](https://www.wallpaper.com/art/mario-merz-igloos-exhibition-pirelli-hangerbicocca))
 
-![](img/)
+![Mario Merz, *Igloos*](img/mario-merz-igloos-03.jpg)
 
 ---
 
-Hidden Studio by Fernando Abellanas
-https://www.dezeen.com/2017/08/18/secret-studio-under-bridge-fernando-abellanas-architecture-valencia-spain/
+Kevin Cyr, *Tiny Bike Trailer Mobile Homes*. "Artist and designer Kevin Cyr seems obsessed with portable housing and mobile living. In his own unique creations, he manages to pack impressive amenities (bed, lighting, storage and much more) into the smallest of interior spaces." 
+([link](https://dornob.com/small-mobile-homes-bike-trailers-shopping-cart-campers/))
 
-![](img/)
-
----
-
-Kevin Cyr, Tiny Bike Trailer Mobile Homes
-https://dornob.com/small-mobile-homes-bike-trailers-shopping-cart-campers/
-
-![](img/)
+![Kevin Cyr, *Tiny Bike Trailer Mobile Homes*.](img/kevin-cyr-camper-bike.jpg)
 
 ---
 
-Jonah Freeman & Justin Lowe, Hello Meth Lab in the Sun
-https://www.frieze.com/article/hello-meth-lab-sun
+Agnes Meyer-Brandis, *Research Raft for Subterranean Reefology* (2005). 
+A tent-shelter containing a probe that can be lowered into the earths deeper layers and bring to light the unknown. ([link](https://archive.transmediale.de/content/sgm-eisberg-sonde-sgm-iceberg-probe))
 
-![](img/)
-
----
-
-Mike Kelly & Michael Smith, A Voyage of Growth and Discovery
-https://www.sculpture-center.org/exhibitions/3360/a-voyage-of-growth-and-discovery
-
-![](img/)
-
----
-
-I AM THE DESIGNER OF THIS RESTAURANT’S OUTDOOR SEATING SPACE, AND THIS IS MY ARTIST’S STATEMENT
-https://www.mcsweeneys.net/articles/i-am-the-designer-of-this-restaurants-outdoor-seating-space-and-this-is-my-artists-statement
-
-![](img/)
-
-
-
+![Agnes Meyer-Brandis, *Research Raft for Subterranean Reefology*](img/Meyer-Brandis.jpg)
 
 ---
 
 Not An Alternative (Collective)
 http://magazine.art21.org/2011/05/19/5-questions-for-contemporary-practice-with-not-an-alternative/#.YCWEABNKiyE
-
-![](img/)
-
----
-
-Agnes Meyer-Brandis, *Research Raft for Underground Riffdogy*,
-https://archive.transmediale.de/content/sgm-eisberg-sonde-sgm-iceberg-probe
 
 ![](img/)
 
@@ -360,6 +343,13 @@ Laure Tixier’s plaid houses;
 Louise Bourgeois, *Femme Maison* (1946). "A series of paintings by French-American artist Louise Bourgeois addressing the question of female identity. In these paintings, the heads and bodies of nude female figures have been replaced by architectural forms such as buildings and houses. *Femme Maison* translates from the French as ‘housewife’: literally, ‘woman house’." ([link](https://en.wikipedia.org/wiki/Femme_Maison))
 
 ![Louise Bourgeois, *Femme Maison*](img/Femme_Maison.jpg)
+
+---
+
+I AM THE DESIGNER OF THIS RESTAURANT’S OUTDOOR SEATING SPACE, AND THIS IS MY ARTIST’S STATEMENT
+https://www.mcsweeneys.net/articles/i-am-the-designer-of-this-restaurants-outdoor-seating-space-and-this-is-my-artists-statement
+
+![](img/)
 
 ---
 
