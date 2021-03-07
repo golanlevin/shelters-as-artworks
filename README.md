@@ -333,83 +333,20 @@ Laurie Simmons, *Walking House* (1989). "In *Walking House*, the sleek legs of a
 
 ## As-Yet-Unprocessed References
 
----
+*This is a landfill of references I haven't tidied yet. Any assistance is welcome; please see [how to contribute](https://github.com/golanlevin/shelters-as-artworks#how-to-contribute).* 
 
-I AM THE DESIGNER OF THIS RESTAURANT’S OUTDOOR SEATING SPACE, AND THIS IS MY ARTIST’S STATEMENT
-https://www.mcsweeneys.net/articles/i-am-the-designer-of-this-restaurants-outdoor-seating-space-and-this-is-my-artists-statement
-
-<!-- ![](img/) -->
-
---- 
-
-Simone Leigh’s work (representations of homes and shelters)
-
-<!-- ![](img/) -->
-
----
-
-Martin Marro, *Proyecto Bunker*
-
-<!-- ![](img/) -->
-
----
-
-Sack and Reicher + Muller & Eyal Zur's "Sway" / 'Fugitive Structures'  - it's a collab with architects & artist
-
-<!-- ![](img/) -->
-
----
-
-“MY EMF COMFORT ZONE” 2009 Todd Slaughter’s 3d head scan tent (in American Primitives)
-
-<!-- ![](img/) -->
-
----
-
-Santiago Cirugeda's works
-
-<!-- ![](img/) -->
-
----
-
-Do Ho Suh's works; 
-
-<!-- ![](img/) -->
-
----
-
-Nil Yalter’s Nomad tents
-
-<!-- ![](img/) -->
-
----
-
-Laure Tixier’s plaid houses;
-
-<!-- ![](img/) -->
-
----
-
-Not An Alternative (Collective)
-http://magazine.art21.org/2011/05/19/5-questions-for-contemporary-practice-with-not-an-alternative/#.YCWEABNKiyE
-
-<!-- ![](img/) -->
-
----
-
-Roman Signer, Signer's Suitcase
-https://www.youtube.com/watch?v=HA58UzPVfDg&feature=youtu.be
-
-<!-- ![](img/) -->
-
----
-
-Will Rynan’s America, Martin Puryear, and Rina Banerjee’s pink Taj Mahal; 
-
-<!-- ![](img/) -->
-
----
-
+* I AM THE DESIGNER OF THIS RESTAURANT’S OUTDOOR SEATING SPACE, AND THIS IS MY ARTIST’S STATEMENT https://www.mcsweeneys.net/articles/i-am-the-designer-of-this-restaurants-outdoor-seating-space-and-this-is-my-artists-statement
+* Simone Leigh’s work (representations of homes and shelters)
+* Martin Marro, *Proyecto Bunker*
+* Sack and Reicher + Muller & Eyal Zur's "Sway" / 'Fugitive Structures'  - it's a collab with architects & artist
+* “MY EMF COMFORT ZONE” 2009 Todd Slaughter’s 3d head scan tent (in American Primitives)
+* Santiago Cirugeda's works
+* Do Ho Suh's works; 
+* Nil Yalter’s Nomad tents
+* Laure Tixier’s plaid houses;
+* Not An Alternative (Collective) http://magazine.art21.org/2011/05/19/5-questions-for-contemporary-practice-with-not-an-alternative/#.YCWEABNKiyE
+* Roman Signer, Signer's Suitcase https://www.youtube.com/watch?v=HA58UzPVfDg&feature=youtu.be
+* Will Rynan’s America, Martin Puryear, and Rina Banerjee’s pink Taj Mahal; 
 * Jill Sigman; 
 * “Anthony McCall, sort of.";  
 * Dennis Oppenheim; 
