@@ -407,3 +407,42 @@ https://www.youtube.com/watch?v=HA58UzPVfDg&feature=youtu.be
 Will Rynan’s America, Martin Puryear, and Rina Banerjee’s pink Taj Mahal; 
 
 <!-- ![](img/) -->
+
+---
+
+* Jill Sigman; 
+* “Anthony McCall, sort of.";  
+* Dennis Oppenheim; 
+* Martha Poggioli - Tent Dress (2018) - http://analogritual.com/Tent-Dress; 
+* christoph schlingensief; 
+* Basic House
+https://martinazua.com/product/basic-house/; 
+* Thomas Schütte has a series of bunkers, but also did Houses https://www.kunstmuseumluzern.ch/en/exhibitions/thomas-schuette-houses/; 
+* Ron Tran https://www.bethanien.de/en/artists/ron-tran/; 
+* Rirkrit Tiravanija, Untitled (jacket turns to tent), 2007 - https://www.artsy.net/artwork/rirkrit-tiravanija-untitled-jacket-turns-to-tent; 
+* Verbeke Foundation has a colon shelter/guesthouse you can rent out for a night https://twitter.com/joonturbo/status/1359977468459970562/photo/1; 
+* Theaster Gates, Stony Island Arts Bank - https://theastergates.com/project-items/stony-island-arts-bank; 
+* For the love of God by Curro Claret
+https://curroclaret.com/en/dificiles_por_el_amor_de_dios_santa_anna.html; Roden Crater, by James Turrell; James Turrell, Deer Shelter Skyspace @YSPsculpture https://ysp.org.uk/openair/jamesturrell/deershelterskyspace; 
+* Antal Lakner, The Icelandic Army, https://manifesta13.org/wp-content/uploads/2019/05/Lakner.jpg; Geraldine Juarez' and Adam Bobbette's Forays from 2007: https://we-make-money-not-art.com/i_read_about_yo/; https://www.rebeccabelmore.com/biinjiyaiing-onji-from-inside/;
+* the covert apartment built by two artists in a shopping mall parking lot: http://wrafwraf.com/trummerkind.html; 
+* Apocalypse Anonymous by 
+@LorenRubicana and Tiyan Baker https://rubicana.info/portfolio/apocalypse-anonymous/; 
+* Rachel whiteread nissen hut https://twitter.com/printiprinter/status/1360138352645857282; 
+* Lisa Karrer - https://burchfieldpenney.org/exhibitions/exhibition:12-11-2020-03-28-2021-lisa-karrer-shelter/; 
+* Swoon in Haiti: https://mymodernmet.com/swoon-bamboo-house-konbit-shelter/; 
+* https://www.phillips.com/detail/rirkrit-tiravanija/NY010309/121 Roller: Cinéma De Ville; 
+* Sheela gowda, dark room 2006, https://twitter.com/Dhruva_Storz/status/1362013566539358209;
+* Disastr Hotel by DV Rogers http://disastr.urbanaction.org
+* Taro Hattori http://tarohattori.com/projects/rolling_counterpoint.php
+* http://anthonystephenson.org/art/artHistory/drmstnd.htm
+* http://postmastersart.com/archive/guy06/guy06.html
+* https://toddcsmith.com/Bernheim-Nest
+* Ana Rewakowicz's wearable inflatable shelters .. http://rewana.com/prototypes-sleeping-dress.html
+* Robert Ransick has completed a 6 month Residency at Eyebeam developing Casa Segura (Safe House). https://we-make-money-not-art.com/i_am_actually_f/
+* Satoshi Murakami, My Small Mobile House and other https://siaf.jp/siaf2020/en/news/artist/satoshi-murakami/s
+* Adam Stenneett’s survival shelters - http://adamstennett.com/arcticsurvivalshack.html
+* Tentative architecture by @xarene https://vimeo.com/1043224 
+ 
+ 
+ 
