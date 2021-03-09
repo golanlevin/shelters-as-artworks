@@ -10,7 +10,7 @@
 
 #### How to Contribute
 
-*This list is a procrastination project that I assembled in order to give a student a leg up with their research. The easier you make it for me to add something to the list, the more likely I will add it. If you wish to submit a project to this compilation, [please file an issue here](https://github.com/golanlevin/shelters-as-artworks/issues) and provide the following information:* 
+*This list is a procrastination project that I assembled to give a student a leg up with their research. The easier you make it for me to add something to the list, the more likely I will add it. If you wish to submit a project to this compilation, [please file an issue here](https://github.com/golanlevin/shelters-as-artworks/issues) and provide the following information:* 
 
 * *Name of the artists or creators*
 * *Title of the artwork or project*
@@ -54,6 +54,12 @@ Raumlaborberlin (Axel Timm, Benjamin Foerster-Baldenius), *Shabby Shabby Apartme
 Andrea Zittel, *A-Z Wagon Station* (2003). An alternative temporary structures for living, produced under the guise of her fictive one-person corporation, “A–Z Administrative Services.” ([link](https://www.guggenheim.org/artwork/20713))
 
 ![Andrea Zittel, *A-Z Wagon Station*](img/zittel-azwagon.jpg)
+
+---
+
+Gregory Kloehn, *Homeless Homes Project* (2014).  Kloehn builds miniature houses for people living on the streets in Oakland, California, "constructing the shelters from trash that has been illegally dumped, collecting everything from cargo pallets and window frames to pizza delivery bags and washing machine doors." ([link](https://mymodernmet.com/gregory-kloehn-homeless-homes-project/))
+
+![Gregory Kloehn, *Homeless Homes Project*](img/gregory-kloehn.jpg)
 
 ---
 
