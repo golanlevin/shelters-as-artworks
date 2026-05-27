@@ -16,7 +16,7 @@
 * *Title of the artwork or project*
 * *Year that it was made or started*
 * *One single URL that has the most representative or best documentation of the project*
-* *A brief description of what the project IS, including some information on why it's interesting (approximately 20-50 words long, please)*
+* *A brief description of what the project IS — including some information on why it's interesting, and how it is relevant to the concept of 'shelter'. (approximately 20-50 words long, please)*
 * *PNG or JPG Image, ~1000 pixels wide.*
 
 
@@ -340,7 +340,7 @@ Laurie Simmons, *Walking House* (1989). "In *Walking House*, the sleek legs of a
 
 Janet Cardiff and George Bures Miller, *The Marionette Maker* (2014). An installation consisting of a full-scale vintage caravan that houses a myriad of characters in a haunting environment. The interior of the trailer reveals the fantastic world of a marionette maker (a marionette himself), who is hunched over a desk drafting designs attempting to create life around him. A full replica of Cardiff lies sleeping at one end of the trailer surrounded by small moving creatures in a scene reminiscent of Gulliver’s travels. ([link](https://cardiffmiller.com/installations/the-marionette-maker/))
 
-
+![Janet Cardiff and George Bures Miller, *The Marionette Maker*](img/cardiff.jpg)
 
 ---
 
