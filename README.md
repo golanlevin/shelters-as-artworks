@@ -336,6 +336,13 @@ Laurie Simmons, *Walking House* (1989). "In *Walking House*, the sleek legs of a
 
 ![Laurie Simmons, *Walking House*](img/walking-house.png)
 
+---
+
+Janet Cardiff and George Bures Miller, *The Marionette Maker* (2014). An installation consisting of a full-scale vintage caravan that houses a myriad of characters in a haunting environment. The interior of the trailer reveals the fantastic world of a marionette maker (a marionette himself), who is hunched over a desk drafting designs attempting to create life around him. A full replica of Cardiff lies sleeping at one end of the trailer surrounded by small moving creatures in a scene reminiscent of Gulliver’s travels. ([link](https://cardiffmiller.com/installations/the-marionette-maker/))
+
+
+
+---
 
 ## As-Yet-Unprocessed References
 
